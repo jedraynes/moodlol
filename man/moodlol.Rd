@@ -1,0 +1,12 @@
+\name{moodlol}
+\alias{moodlol}
+\title{YAKWTFIGO}
+\usage{
+fuckR()
+}
+\description{
+YAKWTFIGO
+}
+\examples{
+fuckR()
+}
